@@ -21,6 +21,10 @@ Despite holding degrees in 3D Animation and Interactive Media Design, my passion
 
 I'm exploring new avenues to channel my creativity and connect with like-minded individuals who share my interests and hobbies. My goal is to create a space where I can share tips, tricks, and perhaps initiate some exciting open-source side projects. Who knows, this journey might pave the way for even more passion projects. Let's embark on this adventure and see where it takes us!
 
+View All my guides, notes and documentation can be found at: 
+
+https://jono-moss.github.io/
+
 </div>
 
 ## 📊 Graphs = motivation 
